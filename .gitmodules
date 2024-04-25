@@ -1,0 +1,3 @@
+[submodule "Plugins/Arcstone/ArcUI"]
+	path = Plugins/Arcstone/ArcUI
+	url = https://github.com/ArcstoneGames/ArcUI.git
